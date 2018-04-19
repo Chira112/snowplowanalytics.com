@@ -16,36 +16,36 @@ $(document).ready(function() {
  	/*
  	 * SnowPlow btn side bars
  	*/
- 	$('.snowplw-btn-container').each(function(index, el) {
- 		var pad_ = 50;
- 		var btn_width = $(el).find('.snowplw-btn').outerWidth();
- 		$(el).find('.snowplw-btn-sides').css('width', 'calc(50% - '+(btn_width/2 + pad_)+'px)');
- 	});
+ 	// $('.snowplw-btn-container').each(function(index, el) {
+ 	// 	var pad_ = 50;
+ 	// 	var btn_width = $(el).find('.snowplw-btn').outerWidth();
+ 	// 	$(el).find('.snowplw-btn-sides').css('width', 'calc(50% - '+(btn_width/2 + pad_)+'px)');
+ 	// });
 
 
 
  	/*
  	 * Align Case Studies
  	*/
- 	case_studies_left = '';
- 	case_studies_right = '';
+ 	// case_studies_left = '';
+ 	// case_studies_right = '';
 
- 	$('.case-studies-block').each(function(index, el) {
- 		case_studies_html = '<div class="case-studies-block ' + $(el).attr('data-class') + '">' + $(el).html() + '</div>';
- 		if (index % 2 == 0) {
- 			case_studies_left += case_studies_html;
- 		} else {
- 			case_studies_right += case_studies_html;
- 		}
- 	});
- 	case_studies_html = '';
- 	case_studies_html += '<div class="case-studies-container-left col-sm-6">';
- 	case_studies_html += case_studies_left;
- 	case_studies_html += '</div>';
- 	case_studies_html += '<div class="case-studies-container-right col-sm-6">';
- 	case_studies_html += case_studies_right;
- 	case_studies_html += '</div>';
- 	$('.case-studies-container').html(case_studies_html);
+ 	// $('.case-studies-block').each(function(index, el) {
+ 	// 	case_studies_html = '<div class="case-studies-block ' + $(el).attr('data-class') + '">' + $(el).html() + '</div>';
+ 	// 	if (index % 2 == 0) {
+ 	// 		case_studies_left += case_studies_html;
+ 	// 	} else {
+ 	// 		case_studies_right += case_studies_html;
+ 	// 	}
+ 	// });
+ 	// case_studies_html = '';
+ 	// case_studies_html += '<div class="case-studies-container-left col-sm-6">';
+ 	// case_studies_html += case_studies_left;
+ 	// case_studies_html += '</div>';
+ 	// case_studies_html += '<div class="case-studies-container-right col-sm-6">';
+ 	// case_studies_html += case_studies_right;
+ 	// case_studies_html += '</div>';
+ 	// $('.case-studies-container').html(case_studies_html);
  	
 
 

@@ -5,15 +5,108 @@ title: Our Customers are Smart | Snowplow
 description: Our Customers are diverse but have a lot in common, though. They are smart. They love data. And they want to use data to differentiate. Find out how we helped!
 permalink: /customers/
 class: customers, header-white
+assets:
+ css: assets/css/customers.css
+ js: assets/js/customers.js
 
 ---
 
 <section class="hero">
-    <div class="container text-center">
-        <h1 class="text-brand-light">Using data to differentiate.</h1>
-        <p class="text-muted">Find out how Snowplow enables Smart People to be transformative with data.</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-4">
+                <h1>The Case Studies</h1>
+                <p class="text-muted">Making extraordinary sucessful stories or, as we call it, business as usual.</p>
+            </div>
+        </div>        
     </div>
 </section>
+
+
+<section class="case-studies">
+   <div class="container">
+       <div class="case-studies-container">
+           {% for case in site.data.case_studies %}           
+               <div class="case-studies-block {{ case.color }}" data-class={{ case.color }}>
+                   <div class="case-studies-block-mask"></div>
+                   <img src={{ case.picture_top }} class="case-studies-block-pic-top">
+                   <div class="case-studies-block-wrapper">
+                       <div class="case-studies-block-sector">
+                           <img src="{{ case.sector_icon }}" alt="">
+                           <p>{{ case.sector }}</p>
+                       </div>
+                       <img src="{{ case.icon }}" alt="{{ case.company }}" class="case-studies-block-logo">
+                       <p class="case-studies-block-content">{{ case.content }}</p>
+                       <p class="case-studies-block-quote">{{ case.quote }}</p>
+                       <p class="case-studies-block-name">{{ case.name }}</p>
+                       <p class="case-studies-block-position">{{ case.position }}</p>
+                   </div>                    
+               </div>
+           {% endfor %}
+       </div> 
+       <div class="text-center snowplw-btn-container">
+           <div class="snowplw-btn-sides left"></div>
+           <div class="btn btn-primary spacer-top-50 xs-spacer-top-30">
+               See all Case Studies
+           </div>
+           <div class="snowplw-btn-sides right"></div>
+       </div>      
+   </div>
+</section>
+
+
+
+
+<svg class="defs-only">
+ <filter id="monochrome" color-interpolation-filters="sRGB"
+         x="0" y="0" height="100%" width="100%">
+   <feColorMatrix type="matrix"
+     values="0 0 0 0 0 
+             0 0 0 0 0  
+             0 0 0 0 0 
+             0    0 0 .25 0" />
+ </filter>
+</svg>
+<section class="users">
+   <div class="container">
+       <h2 class="text-center">Our Users</h2>
+       <p class="text-muted text-center">Snowplow users are diverse and are leaders in financial services, eCommerce, mobile gaming, finance, and many other industries.</p>
+       <div class="users-block-container">
+           {% for user in site.data.users %} 
+               <a href="{{ user.link }}" target="_blank" class="users-block">
+                   <span class="highlight"></span>
+                   <img src="{{ user.picture }}" alt="image" />
+               </a> 
+           {% endfor %}
+       </div>
+       <div class="text-center snowplw-btn-container">
+           <div class="snowplw-btn-sides left"></div>
+           <div class="btn btn-primary" id="btn_users">
+               See all Users
+           </div>
+           <div class="snowplw-btn-sides right"></div>
+       </div>       
+     </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -28,6 +121,8 @@ class: customers, header-white
         <p>Our customers have a lot in common, though. They are smart. They love data. And they want to use data to differentiate.</p>
     </div>
 </section>
+
+
 
 
 
