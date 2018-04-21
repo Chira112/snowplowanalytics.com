@@ -6,12 +6,9 @@
   sector: Retail
   sector_icon: /assets/img/case_studies/retail-outline.svg
   icon: /assets/img/case_studies/logo-sb.png
-  # company_link: http://google.com
-  picture_top: /assets/img/case_studies/snowplow-images-customers-simply-business-3.jpg
-  # picture_top_wide: /assets/img/case_studies/simply_business_top@2x.png
-  # picture_bottom: /assets/img/case_studies/Stewart_Duncan.png
-  # picture_bottom_wide: /assets/img/case_studies/Stewart_Duncan@2x.png
-  color: silver
+  picture_top: /assets/img/costumers/costumers-v2-case-study-simpbus.jpg
+  picture_top_wide: /assets/img/costumers/costumers-v2-case-study-simpbus.jpg
+  color: silver #silver;purple;green;blue
 
 - company: Peak
   content: Peak uses Snowplow to build award winning games that help you train your brain.
@@ -21,33 +18,6 @@
   sector: gamming
   sector_icon: /assets/img/case_studies/gaming-outline.svg
   icon: /assets/img/case_studies/logo-peak.png
-  # company_link: http://google.com
-  picture_top: /assets/img/case_studies/snowplow-website-images-cases-peak-4-b.jpg
-  # picture_top_wide: /assets/img/case_studies/peak@2x.png
-  # picture_bottom: /assets/img/case_studies/peak_bottom.png
-  # picture_bottom_wide: /assets/img/case_studies/peak_bottom@2x.png
+  picture_top: /assets/img/costumers/costumers-v2-case-study-peak.jpg
+  picture_top_wide: /assets/img/costumers/costumers-v2-case-study-peak%402x.jpg
   color: purple
-
-# - company: Viewbix
-#   content: Lorem ipsum sit amet consequeteur adisciplit lorem ipsum norem.
-#   quote: “Lorem ipsum sit amet consequeteur adisciplit lorem ipsum sit amet.”
-#   name: Dani Waxman
-#   position: Product Manager
-#   company_link: http://google.com
-#   picture_top: /assets/img/case_studies/img-bckg-viewbix.png
-#   picture_top_wide: /assets/img/case_studies/img-bckg-viewbix@2x.png
-#   picture_bottom: /assets/img/case_studies/dani_waxman.png
-#   picture_bottom_wide: /assets/img/case_studies/dani_waxman@2x.png
-#   color: green
-
-# - company: Picnic
-#   content: Picnic uses Snowplow to deliver users with a smart, data-driven shopping experience.
-#   quote: “Snowplow is really powerful when you start to hit that growth curve and going upwards.”
-#   name: Stewart Duncan
-#   position: Director of Data Science
-#   company_link: http://google.com
-#   picture_top: /assets/img/case_studies/picnic_top.png
-#   picture_top_wide: /assets/img/case_studies/picnic_top@2x.png
-#   picture_bottom: /assets/img/case_studies/picnic_bottom.png
-#   picture_bottom_wide: /assets/img/case_studies/picnic_bottom@2x.png
-#   color: blue
