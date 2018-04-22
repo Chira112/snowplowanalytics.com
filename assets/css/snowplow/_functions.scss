@@ -70,4 +70,9 @@
 }
 //@include ellipsis($font-size, $line-height, $lines-to-show);
 
-
+@mixin do-flex($direction, $justify, $align) {
+	display: flex;
+	flex-direction: $direction;
+	justify-content: $justify;
+	align-content: $align;
+}

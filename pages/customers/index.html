@@ -54,45 +54,38 @@ assets:
 
 
 
+
 <section class="testemonials">
    <div class="container">
        <h2 class="text-center">Testimonials</h2>
        <p class="text-muted text-center">What our customers say about us.</p>
        <div class="testemonials-block-container">
-           <div class="row">
+           <div class="testemonials-block-wrapper" style="">
                {% for testemonial in site.data.testimonials %} 
                {% assign test = testemonial[1] %} 
-                   <div class="testemonials-block col-sm-6">
-                       <div class="testemonials-block-wrapper">
-                           <div class="testemonials-block-pic" style="background-image: url({{ test.picture }});"></div>
-                           <p class="testemonials-block-content">{{ test.content }}</p>
-                           <p class="testemonials-block-name">{{ test.full_name }}</p>
-                           <p class="testemonials-block-position">{{ test.position }} <span>{{ test.company }}</span></p>
-                           <div class="testemonials-block-pic" style="background-image: url({{ test.picture }});"></div>
-
-                       </div>                        
+                   <div class="testemonials-block">
+                        <div class="testemonials-block-pic" style="background-image: url({{ test.picture }});"></div>
+                        <div class="testemonials-block-right">
+                            <p class="testemonials-block-content">{{ test.content }}</p>
+                            <p class="testemonials-block-name">{{ test.full_name }}</p>
+                            <p class="testemonials-block-position">{{ test.position }} <span>{{ test.company }}</span></p>
+                        </div>
                    </div>
                {% endfor %}
-                <div class="testemonials-count-container">
-                    {% assign i = 1 %}
-                    {% for case in site.data.case_studies %}
-                        <div class="testemonials-count">{{ i }}</div>
-                        {% assign i = i | plus:1 %}
-                    {% endfor %}
-                </div>
-                <div class="testemonials-arrows-container">
-                    <div class="testemonials-arrows prev"></div>
-                    <div class="testemonials-arrows next"></div>
-                </div>
-           </div>            
-       </div>
-       <div class="text-center snowplw-btn-container">
-           <div class="snowplw-btn-sides left"></div>
-           <div class="snowplw-btn" id="btn_refresh_testemonials">
-               Refresh
-           </div>
-           <div class="snowplw-btn-sides right"></div>
-       </div>       
+                
+           </div>   
+           <div class="testemonials-count-container">
+                {% assign i = 1 %}
+                {% for case in site.data.testimonials %}
+                    <div class="testemonials-count {% if i == 1 %} active_ {% endif %}">{{ i }}</div>
+                    {% assign i = i | plus:1 %}
+                {% endfor %}
+            </div>
+            <div class="testemonials-arrows-container">
+                <div class="testemonials-arrows prev_ innactive_"><i class="i-arrow-left"></i></div>
+                <div class="testemonials-arrows next_"><i class="i-arrow-right"></i></div>
+            </div>        
+       </div>      
      </div>
 </section>
 
