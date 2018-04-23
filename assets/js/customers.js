@@ -9,22 +9,34 @@ var video_filter = '', videos_array = [];
 var html_;
 var media_pos = 0;
 // testemonials
-var count_test = 0, test_block = $('.testemonials-block'), test_wrapper = $('.testemonials-block-wrapper'), test_block_size = 0, test_wrapper_size = 0, test_left = 0, test_pos = 1;
+var count_test = 0, test_block = $('.testemonials .testemonials-block'), test_wrapper = $('.testemonials .testemonials-block-wrapper'), test_block_size = 0, test_wrapper_size = 0, test_left = 0, test_pos = 1;
+// media
+var count_media = 0, media_block = $('.media .testemonials-block'), media_wrapper = $('.media .testemonials-block-wrapper'), media_block_size = 0, media_wrapper_size = 0, media_left = 0, media_pos = 1;
 
 
 function calcWrapperSize() {
-	test_block_size = test_block.outerWidth();  console.log(count_test);
-	test_wrapper_size = count_test*test_block_size; console.log(test_wrapper_size);
+	test_block_size = test_block.outerWidth();  
+	test_wrapper_size = count_test*test_block_size; 
 	test_wrapper.css('width', test_wrapper_size+'px');
-
+	
+	media_block_size = media_block.outerWidth();  
+	media_wrapper_size = count_media*media_block_size; 
+	media_wrapper.css('width', media_wrapper_size+'px');
 
 }
 
 
-function goToSlide(slide) {
-	test_block_size = test_block.outerWidth(); console.log(test_block_size);
-	test_left = (-1) * (slide - 1) * test_block_size; console.log(test_left);
-	test_wrapper.css('left', test_left + 'px'); 
+function goToSlide(slide, target) {
+	if (target == 'testemonials') {
+		test_block_size = test_block.outerWidth(); 
+		test_left = (-1) * (slide - 1) * test_block_size; 
+		test_wrapper.css('left', test_left + 'px');
+	} else {
+		media_block_size = media_block.outerWidth(); 
+		media_left = (-1) * (slide - 1) * media_block_size; 
+		media_wrapper.css('left', media_left + 'px');
+	}
+	 
 }
 
 
@@ -36,24 +48,35 @@ $(document).ready(function() {
 	 *
 	 */
 	 // Calculate size of wrapper
-	 count_test = $('.testemonials-block').length;
-	 // test_block_sizer = $('.testemonials-block').outerWidth();
-	 // count_test = $('.testemonials-block').length;
-	 // test_wrapper_size = 
+	 count_test = test_block.length;
+	 count_media = media_block.length;
+	  
 	 calcWrapperSize();
 	 // Go to slide #
-	 $('.testemonials-arrows').click(function(event) {
+	$('.testemonials .testemonials-arrows').click(function(event) {
 	 	if ($(this).hasClass('prev_')) {
 	 		if ( test_pos <= 1) test_pos = count_test;
 	 		else test_pos--;
-	 		goToSlide(test_pos);
+	 		goToSlide(test_pos, 'testemonials');
 	 	} else {
 	 		if ( test_pos >= count_test ) test_pos = 1;
 	 		else test_pos++;
-			goToSlide(test_pos);
+			goToSlide(test_pos, 'testemonials');
 	 	}
-	 	console.log(test_pos);
-	 });
+	 	
+	});
+	$('.media .testemonials-arrows').click(function(event) {
+	 	if ($(this).hasClass('prev_')) {
+	 		if ( media_pos <= 1) media_pos = count_media;
+	 		else media_pos--;
+	 		goToSlide(media_pos, 'media');
+	 	} else {
+	 		if ( media_pos >= count_media ) media_pos = 1;
+	 		else media_pos++;
+			goToSlide(media_pos, 'media');
+	 	}
+	 	
+	});
 
 
 	 
