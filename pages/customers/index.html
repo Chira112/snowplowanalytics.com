@@ -107,6 +107,7 @@ assets:
        <h2 class="text-center">Our Users</h2>
        <p class="text-muted text-center">Snowplow users are diverse and are leaders in financial services, eCommerce, mobile gaming, finance, and many other industries.</p>
        <div class="users-block-container">
+        {{site.data.users | size}}
            {% for user in site.data.users %} 
                <a href="{{ user.link }}" target="_blank" class="users-block">
                    <span class="highlight"></span>

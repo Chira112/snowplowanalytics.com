@@ -1,470 +1,520 @@
+- link: https://www.iglooanalytics.com/ 
+  picture: /assets/img/costumers-users/logo-igloo-analytics.png
+
+- link: https://www.funda.nl/ 
+  picture: /assets/img/costumers-users/logo-funda.png
+
+- link: https://www.viventura.de 
+  picture: /assets/img/costumers-users/logo-viventura.png
+
+- link: https://usersnap.com/ 
+  picture: /assets/img/costumers-users/logo-usersnap.png
+
+- link: https://www.sourceclear.com 
+  picture: /assets/img/costumers-users/logo-SourceClear.png
+
+- link: http://www.sparked.com 
+  picture: /assets/img/costumers-users/logo-sparked.png
+
+- link: http://www.sevenwestmedia.com.au 
+  picture: /assets/img/costumers-users/logo-seven-west-media.png
+
+- link: https://www.safetrek.com 
+  picture: /assets/img/costumers-users/logo-safetrek.png
+
+- link: https://www.jualo.com 
+  picture: /assets/img/costumers-users/logo-jualo.png
+
+- link: http://www.insidehook.com 
+  picture: /assets/img/costumers-users/logo-insidehook.png
+
+- link: https://hipagesgroup.com.au 
+  picture: /assets/img/costumers-users/logo-hipages.png
+
+- link: "" 
+  picture: /assets/img/costumers-users/logo-heiplflazenwhol.png
+
+- link: https://grofers.com 
+  picture: /assets/img/costumers-users/logo-grofers.png
+
+- link: http://www.douglas.de 
+  picture: /assets/img/costumers-users/logo-douglas.png
+
+- link: http://www.fairfaxmedia.com.au 
+  picture: /assets/img/costumers-users/logo-fairfax-media.png
+
+- link: http://www.cvent.com/ 
+  picture: /assets/img/costumers-users/logo-cvent.png
+
+- link: https://www.collage.com 
+  picture: /assets/img/costumers-users/logo-collage.png
+
+- link: http://www.boomerangcommerce.com 
+  picture: /assets/img/costumers-users/logo-boomerangcommerce.png
+
+- link: https://www.bigbasket.com 
+  picture: /assets/img/costumers-users/logo-bigbasket.png
+
+- link: http://www.yieldify.com 
+  picture: /assets/img/costumers-users/logo-Yieldify.png
+
+- link: http://www.yotpo.com 
+  picture: /assets/img/costumers-users/logo-Yotpo.png
+
+- link: http://www.tut.by 
+  picture: /assets/img/costumers-users/logo-Tut-By.png
+
+- link: http://www.unilever.com 
+  picture: /assets/img/costumers-users/logo-Unilever.png
+
+- link: http://www.urbandictionary.com 
+  picture: /assets/img/costumers-users/logo-urban_dictionary.png
+
+- link: http://www.viewbix.com 
+  picture: /assets/img/costumers-users/logo-Viewbix.png
+
+- link: http://www.vitafy.de 
+  picture: /assets/img/costumers-users/logo-Vitafy.png
+
+- link: https://www.weebly.com 
+  picture: /assets/img/costumers-users/logo-Weebly.png
+
+- link: http://www.theiconic.com.au 
+  picture: /assets/img/costumers-users/logo-The-Iconic.png
+
+- link: https://www.therealreal.com 
+  picture: /assets/img/costumers-users/logo-The-Real-Real.png
+
+- link: http://www.thredup.com 
+  picture: /assets/img/costumers-users/logo-Thred-Up.png
+
 - link: https://www.treatwell.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Treatwell.png
-             
+  picture: /assets/img/costumers-users/logo-Treatwell.png
+
+- link: http://www.trello.com 
+  picture: /assets/img/costumers-users/logo-trello.png
+
+- link: http://www.truedash.com 
+  picture: /assets/img/costumers-users/logo-True-Dash.png
+
+- link: https://www.streetlife.com 
+  picture: /assets/img/costumers-users/logo-streetlife.png
+
+- link: http://www.stylight.com 
+  picture: /assets/img/costumers-users/logo-stylight.png
+
+- link: https://www.swingbyswing.com 
+  picture: /assets/img/costumers-users/logo-Swing-Swing.png
+
+- link: http://theculturetrip.com/ 
+  picture: /assets/img/costumers-users/logo-The-Culture-Trip.png
+
+- link: http://www.mathereconomics.com 
+  picture: /assets/img/costumers-users/logo-Mather.png
+
+- link: https://www.economist.com/ 
+  picture: /assets/img/costumers-users/logo-The-Economist.png
+
+- link: https://soulmates.theguardian.com/ 
+  picture: /assets/img/costumers-users/logo-The-Guardian.png
+
+- link: http://www.sodastream.com 
+  picture: /assets/img/costumers-users/logo-Soda-Stream.png
+
+- link: http://www.softsurroundings.com 
+  picture: /assets/img/costumers-users/logo-Soft-Surroundings.png
+
+- link: http://www.spaceapegames.com 
+  picture: /assets/img/costumers-users/logo-Space-Ape.png
+
+- link: http://www.sparwelt.de 
+  picture: /assets/img/costumers-users/logo-Sparwelt.png
+
+- link: http://www.springlane.de 
+  picture: /assets/img/costumers-users/logo-SpringLane.png
+
+- link: https://www.staatsloterij.nl 
+  picture: /assets/img/costumers-users/logo-Staatsloterij.png
+
+- link: https://www.sdu.nl 
+  picture: /assets/img/costumers-users/logo-Sdu.png
+
+- link: http://www.secretsaucepartners.com 
+  picture: /assets/img/costumers-users/logo-Secret-Sauce.png
+
+- link: http://www.shaadi.com/ 
+  picture: /assets/img/costumers-users/logo-Shaadi.png
+
+- link: https://www.sigfig.com 
+  picture: /assets/img/costumers-users/logo-Sigfig.png
+
+- link: http://www.simplybusiness.com 
+  picture: /assets/img/costumers-users/logo-Simply-Business.png
+
+- link: http://www.smugmug.com 
+  picture: /assets/img/costumers-users/logo-Smug-Mug.png
+
+- link: http://www.popsugar.com 
+  picture: /assets/img/costumers-users/logo-Pop-Sugar.png
+
+- link: http://www.qwaya.com 
+  picture: /assets/img/costumers-users/logo-Qwaya.png
+
+- link: https://www.raisin.com/ 
+  picture: /assets/img/costumers-users/logo-Raisin.png
+
+- link: https://rootsrated.com/ 
+  picture: /assets/img/costumers-users/logo-Roots-Rated.png
+
+- link: http://www.sapient.com 
+  picture: /assets/img/costumers-users/logo-Sapient.png
+
+- link: https://www.schiphol.nl 
+  picture: /assets/img/costumers-users/logo-Schiphol.png
+
+- link: https://www.number26.eu 
+  picture: /assets/img/costumers-users/logo-Number26.png
+
+- link: http://oneflare.com.au/ 
+  picture: /assets/img/costumers-users/logo-One-Flare.png
+
+- link: https://www.oracle.com/ 
+  picture: /assets/img/costumers-users/logo-Oracle.png
+
+- link: http://www.outfittery.de 
+  picture: /assets/img/costumers-users/logo-Outfittery.png
+
+- link: http://www.oyster.com 
+  picture: /assets/img/costumers-users/logo-Oyster.png
+
 - link: http://www.peak.net 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Peak.png
+  picture: /assets/img/costumers-users/logo-Peak.png
+
+- link: https://www.memrise.com/ 
+  picture: /assets/img/costumers-users/logo-Memrise.png
+
+- link: http://www.metail.com 
+  picture: /assets/img/costumers-users/logo-Metail.png
+
+- link: http://www.methodmill.com 
+  picture: /assets/img/costumers-users/logo-Method-Mill.png
+
+- link: http://www.mintmetrics.io 
+  picture: /assets/img/costumers-users/logo-Mint-Metrics.png
+
+- link: https://www.myphotobook.de/ 
+  picture: /assets/img/costumers-users/logo-My-Photobook.png
+
+- link: https://www.newscorpaustralia.com/ 
+  picture: /assets/img/costumers-users/logo-News-Corp.png
+
+- link: http://shop.nordstrom.com/ 
+  picture: /assets/img/costumers-users/logo-Nordstrom.png
+
+- link: https://www.liveintent.com 
+  picture: /assets/img/costumers-users/logo-LiveIntent.png
+
+- link: http://www.mamamia.com.au/ 
+  picture: /assets/img/costumers-users/logo-Mamamia.png
+
+- link: http://www.managedbyq.com 
+  picture: /assets/img/costumers-users/logo-Managed-by-Q.png
+
+- link: http://www.mediamobz.com 
+  picture: /assets/img/costumers-users/logo-Mediamobz.png
+
+- link: https://www.yourmemoir.com 
+  picture: /assets/img/costumers-users/logo-Memoir.png
+
+- link: http://www.jetsetter.com 
+  picture: /assets/img/costumers-users/logo-Jet-Setter.png
+
+- link: http://www.judson.biz 
+  picture: /assets/img/costumers-users/logo-Judson-and-Company.png
+
+- link: https://www.justwatch.com 
+  picture: /assets/img/costumers-users/logo-JustWatch.png
+
+- link: http://www.keywee.co 
+  picture: /assets/img/costumers-users/logo-Keywee.png
+
+- link: http://www.lingualeo.com 
+  picture: /assets/img/costumers-users/logo-Lingualeo.png
+
+- link: https://www.liveoutthere.com 
+  picture: /assets/img/costumers-users/logo-Live-Out-There.png
+
+- link: https://www.hipper.com/ 
+  picture: /assets/img/costumers-users/logo-Hipper-com.png
+
+- link: http://www.howaboutwe.com 
+  picture: /assets/img/costumers-users/logo-How-About-We.png
+
+- link: http://www.ignitionone.com 
+  picture: /assets/img/costumers-users/logo-Ignition-One.png
+
+- link: https://incrowdsports.com/ 
+  picture: /assets/img/costumers-users/logo-Incrowd.png
+
+- link: https://www.ivcbrasil.org.br/ 
+  picture: /assets/img/costumers-users/logo-Instituto-Verificador-Comunicacao.png
+
+- link: http://www.itg.com 
+  picture: /assets/img/costumers-users/logo-ITG.png
+
+- link: http://graduateland.com 
+  picture: /assets/img/costumers-users/logo-Graduateland.png
+
+- link: https://www.graze.com 
+  picture: /assets/img/costumers-users/logo-Graze.png
+
+- link: http://www.greenhousegroup.com 
+  picture: /assets/img/costumers-users/logo-Greenhouse.png
+
+- link: https://www.guidewire.com 
+  picture: /assets/img/costumers-users/logo-Guidewire.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
              
 - link: http://www.99designs.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_99d.png
-             
-- link: https://www.weebly.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Weebly.png
-             
-- link: https://www.number26.eu 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Number26.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_99d.png
              
 - link: http://www.abc.net.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_ABC.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_ABC.png
              
 - link: http://www.animoto.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Animoto.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Animoto.png
              
 - link: https://www.datadoghq.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_DataDog.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_DataDog.png
              
 - link: http://www.dollarshaveclub.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_DollarShaveClub.png
-             
-- link: http://www.shaadi.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Shaadi.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_DollarShaveClub.png
+                   
 - link: http://4degre.es/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_4Degrees.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_4Degrees.png
              
 - link: http://www.abcam.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Abcam.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Abcam.png
              
 - link: http://www.americanbible.org 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_ABS.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_ABS.png
              
 - link: https://www.aceable.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Aceable.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Aceable.png
              
 - link: http://www.adiq.io 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_AdIQ.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_AdIQ.png
                
 - link: https://www.aegpresents.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_AEG_presents.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_AEG_presents.png
              
 - link: http://www.answermedia.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_AnswerMedia.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_AnswerMedia.png
              
 - link: https://www.auxmoney.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Auxmoney.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Auxmoney.png
              
 - link: http://www.b12.io 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_b12.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_b12.png
              
 - link: http://www.backstage.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Backstage.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Backstage.png
              
 - link: http://www.bauer-media.com.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Bauer_bw.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Bauer_bw.png
              
 - link: http://www.bibliocommons.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_BiblioCommons.png
-             
-- link: https://www.bigbasket.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_BigBasket.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_BiblioCommons.png
+                       
 - link: https://www.bigcommerce.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_BigCommerce.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_BigCommerce.png
              
 - link: http://www.debijenkorf.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Bijenkorf.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Bijenkorf.png
              
 - link: https://www.blueapron.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_BlueApron.png
-             
-- link: http://www.boomerangcommerce.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Boomerang_Commerce.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_BlueApron.png
              
 - link: http://www.brainfall.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Brainfall.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Brainfall.png
              
 - link: http://www.brand-up.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_BrandUp.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_BrandUp.png
              
 - link: https://www.brigade.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Brigade.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Brigade.png
              
 - link: http://www.burberry.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Burberry.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Burberry.png
              
 - link: https://www.busuu.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Busuu.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Busuu.png
              
 - link: https://www.cahootsy.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Cahootsy.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Cahootsy.png
              
 - link: http://www.canary.is 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Canary.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Canary.png
              
 - link: https://www.carbonite.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Carbonite.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Carbonite.png
              
 - link: http://www.carsguide.com.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_CarsGuide.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_CarsGuide.png
              
 - link: https://codecombat.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_CodeCombat.png
-             
-- link: https://www.collage.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Collage.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_CodeCombat.png
+                      
 - link: http://www.conversionlogic.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_ConversionLogic.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_ConversionLogic.png
              
 - link: https://www.bankfacil.com.br 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Creditas.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Creditas.png
              
 - link: https://www.crew.co 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Crew.png
-             
-- link: http://theculturetrip.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Culture.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Crew.png
+                 
 - link: http://www.custommade.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_CustomMade.png
-             
-- link: http://www.cvent.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Cvent.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_CustomMade.png
+                 
 - link: http://www.designcrowd.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_DesignCrowd.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_DesignCrowd.png
              
 - link: http://www.dice.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Dice.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Dice.png
              
 - link: https://www.digimonks.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Digimonks.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Digimonks.png
              
 - link: https://www.ditzo.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Ditzo.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Ditzo.png
              
 - link: http://www.dotandbo.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Dot_Bo.png
-             
-- link: http://www.douglas.de 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Douglas.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Dot_Bo.png
+                      
 - link: https://www.dubicars.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Dubicars.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Dubicars.png
              
 - link: https://www.dubizzle.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Dubizzle.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Dubizzle.png
              
 - link: https://eero.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Eero.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Eero.png
              
 - link: http://www.efinancialcareers.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_EFC.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_EFC.png
              
 - link: https://www.endource.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Endource.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Endource.png
              
 - link: https://www.eneco.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Enoco.png
-             
-- link: http://www.fairfaxmedia.com.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Fairfax-Media.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Enoco.png
+                      
 - link: http://www.feex.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Feex.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Feex.png
              
 - link: http://www.finance.cz 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_FinanceCZ.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_FinanceCZ.png
              
 - link: https://www.finerylondon.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Finery.png
-             
-- link: https://www.funda.nl/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Funda.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Finery.png
+                       
 - link: http://www.fyber.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Fyber.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Fyber.png
              
 - link: https://generalassemb.ly/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_General_Assembly.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_General_Assembly.png
              
 - link: http://www.geostar.pt 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_GeoStar.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_GeoStar.png
              
 - link: https://www.getninjas.com.br 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_GetNinjas.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_GetNinjas.png
              
 - link: http://www.gforces.co.uk 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_GForces.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_GForces.png
              
 - link: http://www.goeuro.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Goeuro.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Goeuro.png
              
 - link: http://www.gousto.co.uk 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Gousto.png
-             
-- link: http://graduateland.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_GraduateLand.png
-             
-- link: https://www.graze.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Graze.png
-             
-- link: http://www.greenhousegroup.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_GreenHouse.png
-             
-- link: https://grofers.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Grofers.png
-             
-- link: https://www.guidewire.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_GuideWire.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Gousto.png
+                   
 - link: https://www.headspace.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_HeadSpace.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_HeadSpace.png
              
 - link: Snowplow_Website-Images_Users_Heilpflanzenwohl.png 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Heilpflanzenwohl.png
-             
-- link: https://hipagesgroup.com.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Hipages.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Heilpflanzenwohl.png
+                   
 - link: http://www.hipcricket.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Hipcricket.png
-             
-- link: https://www.hipper.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Hipper.png
-             
-- link: http://www.howaboutwe.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_HowAboutWe.png
-             
-- link: http://www.theiconic.com.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Iconic.png
-             
-- link: https://www.iglooanalytics.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Igloo.png
-             
-- link: http://www.ignitionone.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_IgnitionOne.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Hipcricket.png
+                       
 - link: https://www.imaginecurve.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Imagine_Curve.png
-             
-- link: https://incrowdsports.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_InCrowd.png
-             
-- link: http://www.insidehook.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_InsideHook.png
-             
-- link: http://www.itg.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_ITG.png
-             
-- link: https://www.ivcbrasil.org.br/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_IVC.png
-             
-- link: http://www.jetsetter.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Jetsetter.png
-             
-- link: https://www.jualo.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Jualo.png
-             
-- link: http://www.judson.biz 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Judson.png
-             
-- link: https://www.justwatch.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_JustWatch.png
-             
-- link: http://www.keywee.co 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Keywee.png
-             
-- link: http://www.lingualeo.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Lingualeo.png
-             
-- link: https://www.liveintent.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_LiveIntent.png
-             
-- link: https://www.liveoutthere.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_LiveOutThere.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Imagine_Curve.png
+                          
 - link: http://makerist.de/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Makerist.png
-             
-- link: http://www.mamamia.com.au/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Mamamia.png
-             
-- link: http://www.managedbyq.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_ManageQ.png
-             
-- link: http://www.mathereconomics.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Mather.png
-             
-- link: http://www.mediamobz.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_MediaMobz.png
-             
-- link: https://www.yourmemoir.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Memoir.png
-             
-- link: https://www.memrise.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Memrise.png
-             
-- link: http://www.metail.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Metail.png
-             
-- link: http://www.methodmill.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_MethodMill.png
-             
-- link: http://www.mintmetrics.io 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Mintmetrics.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Makerist.png
+            
 - link: https://www.moviestarplanet.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_MoviStarPlanet.png
-             
-- link: https://www.myphotobook.de/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_MyPhoto.png
-             
-- link: https://www.newscorpaustralia.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_NewsCorp.png
-             
-- link: http://shop.nordstrom.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Nordstrom.png
-             
-- link: http://oneflare.com.au/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Oneflare.png
-             
-- link: http://www.outfittery.de 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Outfittery.png
-             
-- link: http://www.oyster.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Oyster.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_MoviStarPlanet.png
+                     
 - link: https://perengo.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Perenco.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Perenco.png
              
 - link: https://www.picnic.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Picnic.png
-             
-- link: http://www.popsugar.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Popsugar.png
-             
-- link: http://www.qwaya.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Qwaya.png
-             
-- link: https://www.raisin.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Raisin.png
-             
-- link: https://rootsrated.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_RootsRated.png
-             
-- link: https://www.safetrek.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Safe_Trek.png
-             
-- link: http://www.sapient.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Sapient.png
-             
-- link: https://www.schiphol.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Schipol.png
-             
-- link: https://www.sdu.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SDU.png
-             
-- link: http://www.secretsaucepartners.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SecretSauce.png
-             
-- link: http://www.sevenwestmedia.com.au 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Seven-West-Media.png
-             
-- link: https://www.sigfig.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Sigfig.png
-             
-- link: http://www.simplybusiness.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SimplyBusiness.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Picnic.png
              
 - link: http://slickdeals.net 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Slickdeals.png
-             
-- link: http://www.smugmug.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SmugMug.png
-             
-- link: http://www.sodastream.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Sodastream.png
-             
-- link: http://www.softsurroundings.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SoftSur.png
-             
-- link: https://www.sourceclear.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SourceClear.png
-             
-- link: http://www.spaceapegames.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_SpaceApe.png
-             
-- link: http://www.sparked.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Sparked.png
-             
-- link: http://www.sparwelt.de 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Sparwelt.png
-             
-- link: http://www.springlane.de 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Springlane.png
-             
-- link: https://www.staatsloterij.nl 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Staatsloterij.png
-             
-- link: https://www.streetlife.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_StreetLife.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Slickdeals.png
              
 - link: http://www.studentbeans.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_StudentBeans.png
-             
-- link: http://www.stylight.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Stylight.png
-             
-- link: https://www.swingbyswing.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Swing.png
-             
-- link: https://www.economist.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_TheEconomist.png
-             
-- link: https://soulmates.theguardian.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_TheGuardian.png
-             
-- link: https://www.therealreal.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_TheRealReal.png
-             
-- link: http://www.thredup.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Thred.png
-             
-- link: http://www.trello.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Trello.png
-             
-- link: http://www.truedash.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Truedash.png
-             
-- link: http://www.tut.by 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_TubBy.png
-             
-- link: http://www.unilever.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Unilever.png
-             
-- link: http://www.urbandictionary.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_UrbanDict.png
-             
-- link: https://usersnap.com/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Usersnap.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_StudentBeans.png
+                     
 - link: http://www.viadeo.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Viadeo.png
-             
-- link: http://www.viewbix.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_ViewBix.png
-             
-- link: http://www.vitafy.de 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Vitafy.png
-             
-- link: https://www.viventura.de 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Viventura.png
-             
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_Viadeo.png
+                     
 - link: http://webprofiters.ru/ 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_WebProfiters.png
-             
-- link: http://www.yieldify.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Yieldify.png
-             
-- link: http://www.yotpo.com 
-  picture: /assets/img/common/trusted/Snowplow_Website-Images_Users_Yotpo.png
+  picture: /assets/img/costumers-users/Snowplow_Website-Images_Users_WebProfiters.png
